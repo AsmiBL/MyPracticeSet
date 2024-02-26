@@ -5,6 +5,7 @@ public class Chapter1 {
 		// TODO Auto-generated method stub
 		System.out.println("New add and commit");
 		System.out.println("New status");
+		System.out.println("adding git77777ingone test");
 	}
 
 }
